@@ -1,4 +1,4 @@
-# SLUG
+# Athletes SED
 
 This story was created with [Spectate](https://github.com/spec-journalism/spectate).
 
